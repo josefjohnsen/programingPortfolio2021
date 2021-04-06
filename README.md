@@ -1,2 +1,2 @@
-# programingPortfolio2021
+# ProgramingPortfolio2021
 2021 class
