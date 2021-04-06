@@ -9,4 +9,4 @@ An OOP Space shooter game made in Processing winter 2020.
 ![SpaceGame](https://github.com/josefjohnsen/programingPortfolio2021/blob/gh-pages/images/spacegame.png?raw=true)
 
 
-Source code for project (here.)[https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/spaceGameFinal]
+Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/spaceGameFinal)
