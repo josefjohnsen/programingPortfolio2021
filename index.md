@@ -1,6 +1,6 @@
-# Josef Johnsens Programming Portfolio 2021
+# Josef Johnsen's Programming Portfolio 2021
 
-## Processing Projects
+## Processing Projects:
 
 ### SpaceGame
 
