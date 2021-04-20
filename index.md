@@ -1,5 +1,7 @@
 # Josef Johnsen's Programming Portfolio 2021
 
+[Email](josejohn9573@granitesd.org)
+
 ## Processing Projects:
 
 ### SpaceGame
