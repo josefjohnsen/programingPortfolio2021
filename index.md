@@ -31,4 +31,12 @@ A fun game where you have to spot the pure white car on the screen and click it.
 
 Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/CarsGame)
 
+### Drawing
 
+A creative game where you can draw anything and create any color to use in your pictures.
+
+![drawing_1](https://github.com/josefjohnsen/programingPortfolio2021/blob/gh-pages/images/drawing_1.png?raw=true)
+
+![drawing_2](https://github.com/josefjohnsen/programingPortfolio2021/blob/gh-pages/images/drawing_2.png?raw=true)
+
+Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/Drawing)
