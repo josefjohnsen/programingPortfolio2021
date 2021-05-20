@@ -13,13 +13,13 @@ An OOP Space shooter game made in Processing winter 2020.
 
 Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/spaceGameFinal)
 
-### Snake
+### Calculator
 
-A recreation of the clasic game snake made in Processing spring 2021
+A handy calculator that can do multiple different mathmatical equations made in Processing fall 2020
 
-![Snake](https://github.com/josefjohnsen/programingPortfolio2021/blob/gh-pages/images/Screen%20Shot%202021-04-20%20at%201.23.54%20PM.png?raw=true)
+![Calculator](https://github.com/josefjohnsen/programingPortfolio2021/blob/gh-pages/images/Calculator.png?raw=true)
 
-Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/Snake)
+Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/Calculator)
 
 ### Cars Game
 
