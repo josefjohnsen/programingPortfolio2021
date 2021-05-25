@@ -41,7 +41,7 @@ A creative game where you can draw anything and create any color to use in your 
 
 Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/Drawing)
 
-### Final Game
+### Final Project
 
 A remake of the clasic game called Snake. Move with WASD and collect as much food as posible without running into yourself or out of bounds! Made in Spring 2021.
 
