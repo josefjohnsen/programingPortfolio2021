@@ -5,7 +5,7 @@
 ## Processing Projects:
 
 
-### SpaceGame
+### Space Game
 
 An OOP Space shooter game made in Processing winter 2020.
 
@@ -40,3 +40,11 @@ A creative game where you can draw anything and create any color to use in your 
 ![drawing_2](https://github.com/josefjohnsen/programingPortfolio2021/blob/gh-pages/images/drawing_2.png?raw=true)
 
 Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/Drawing)
+
+### Final Game
+
+A remake of the clasic game called Snake. Move with WASD and collect as much food as posible without running into yourself or out of bounds! Made in Spring 2021.
+
+![Snake Game](https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/mockUp%20(1).png)
+
+Source code for project [here.](https://github.com/josefjohnsen/finalProject/tree/gh-pages/src)
