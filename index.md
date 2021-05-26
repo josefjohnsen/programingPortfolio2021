@@ -4,6 +4,17 @@
 
 ## Processing Projects:
 
+### Snake Final Project
+
+A remake of the clasic game called Snake. Move with WASD and collect as much food as posible without running into yourself or out of bounds! Made in Spring 2021.
+
+![Snake Game](https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/mockUp%20(1).png)
+![Snake Game](https://github.com/josefjohnsen/programingPortfolio2021/blob/gh-pages/images/Screen%20Shot%202021-05-26%20at%2012.52.31%20PM.png?raw=true)
+![Snake Game](https://github.com/josefjohnsen/programingPortfolio2021/blob/gh-pages/images/Screen%20Shot%202021-05-26%20at%2012.52.37%20PM.png?raw=true)
+![UML](https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/snakeUML.png?raw=true)
+
+Source code for project [here.](https://github.com/josefjohnsen/finalProject/tree/gh-pages/src)
+
 
 ### Space Game
 
@@ -41,10 +52,3 @@ A creative game where you can draw anything and create any color to use in your 
 
 Source code for project [here.](https://github.com/josefjohnsen/programingPortfolio2021/tree/gh-pages/src/Drawing)
 
-### Final Project
-
-A remake of the clasic game called Snake. Move with WASD and collect as much food as posible without running into yourself or out of bounds! Made in Spring 2021.
-
-![Snake Game](https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/mockUp%20(1).png)
-
-Source code for project [here.](https://github.com/josefjohnsen/finalProject/tree/gh-pages/src)
